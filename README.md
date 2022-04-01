@@ -38,4 +38,4 @@ Frontend Mentor - Advice-generator-app
 
  
 
-![Design preview for app coding challenge](./screenshot/)
+![Design preview for app coding challenge](./screenshot/Capture d’écran (4).png)
